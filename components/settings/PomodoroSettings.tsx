@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { Timer, Activity, CheckCircle2, AlertCircle, Maximize2, Minimize2, Move } from 'lucide-react';
-import { PomodoroSettings as PomodoroSettingsType } from '../types';
+import { PomodoroSettings as PomodoroSettingsType } from '../../types';
 
 interface PomodoroSettingsProps {
   settings: PomodoroSettingsType;

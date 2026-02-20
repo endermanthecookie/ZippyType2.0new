@@ -1,6 +1,6 @@
 
 import React from 'react';
-import KeyboardTester from './KeyboardTester';
+import KeyboardTester from '../KeyboardTester';
 
 interface HardwareSettingsProps {
   calibratedKeys: Set<string>;

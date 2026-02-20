@@ -20,9 +20,9 @@ import TypingGuide from './components/TypingGuide';
 import Auth from './components/Auth';
 import PomodoroTimer from './components/PomodoroTimer';
 import Tutorials from './components/Tutorials';
-import AISettings from './components/AISettings';
-import HardwareSettings from './components/HardwareSettings';
-import PomodoroSettingsView from './components/PomodoroSettings';
+import AISettings from './components/settings/AISettings';
+import HardwareSettings from './components/settings/HardwareSettings';
+import PomodoroSettingsView from './components/settings/PomodoroSettings';
 import { SpeedInsights } from "@vercel/speed-insights/react"
 import { Analytics } from "@vercel/analytics/react"
 

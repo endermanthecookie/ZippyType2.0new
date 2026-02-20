@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { Globe, Github, HelpCircle, Lock, Activity, CheckCircle2, AlertCircle } from 'lucide-react';
-import { AIProvider, Difficulty } from '../types';
+import { AIProvider, Difficulty } from '../../types';
 
 interface AISettingsProps {
   provider: AIProvider;
